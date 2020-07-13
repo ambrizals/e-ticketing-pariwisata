@@ -1,0 +1,2 @@
+<a href="{!! route('wahana.show',$item->id) !!}" class="btn btn-primary btn-xs">Lihat Data</a>
+<button type="button" class="btn btn-danger btn-xs" onclick="hapusWahana({!! $item->id !!})">Hapus Data</button>

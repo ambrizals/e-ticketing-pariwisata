@@ -1,0 +1,1 @@
+<a href="{{ route('transaksi.show', $data->id) }}" class="btn btn-primary btn-block">Lihat Transaksi</a>

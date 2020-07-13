@@ -1,0 +1,48 @@
+.navbar_title{width:60%}.navbar_site{display: inline;}
+.navbar-search button{
+	border-radius: 0 0.25rem 0.25rem 0em;
+}
+.carousel-height{
+	overflow: hidden;
+	height: 100px;
+}
+.carousel-footer{
+	position: absolute;
+	bottom: 20px;
+}
+.pages-subtitles{
+	border-left:0.75rem solid #17a2b8;
+	font-size:1.5rem;
+	margin:1rem 0;
+	padding:0 0.75rem;
+}
+.pages-subtitles span{
+	color:#17a2b8;
+}
+.block-index{
+	background:#efefef;
+	border:1px solid transparent;
+	padding:1rem;
+	margin:1rem;
+	transition: 0.15s;
+	transition-timing-function:ease-in-out;
+}
+.block-index:hover{
+	background:transparent;
+	border:1px solid #efefef;
+	transition: 0.15s;
+	transition-timing-function:ease-in-out;
+}
+.block-subscription{
+	padding:1rem;
+	border:1px solid transparent;
+	margin:1rem;
+	color:white;
+	text-align: center;
+}
+.block-product{
+	background:#efefef;
+	border:1px solid transparent;
+	padding: 1rem;
+	margin: 1rem;
+}
